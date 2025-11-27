@@ -5,7 +5,7 @@
     <uses-feature android:name="android.hardware.location.gps" />
     <uses-feature android:name="android.hardware.sensor.compass" />
     <application
-        android:label="ar_compass_demo"
+        android:label="Qibla Finder"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
